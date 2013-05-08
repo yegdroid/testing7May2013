@@ -24,6 +24,23 @@ you know why :)
 * "With the support of Robotium, test case developers can write function, system and acceptance test scenarios, spanning multiple Android activities."
 * Open source and lots of community support
 * Extends JUnit style and conventions so there is almost no learning curve.
+
+
+!SLIDE left
+#What can we test?
+* methods
+* classes
+* activities
+* content providers
+* services
+* resources
+* almost everything??
+
+!SLIDE left
+#What can't we test?
+* OpenGL/NDK code? Haven't found anything about this.
+
+
 !SLIDE left
 #What else can we do?
 * maven plugins for testing after compiling
@@ -36,5 +53,6 @@ you know why :)
 * <a href=https://code.google.com/p/robotium/>Robotium</a>
 * <a href=http://pivotal.github.io/robolectric/>Roboelectric</a>
 * <a href=https://code.google.com/p/maven-android-plugin/>Android Maven plugin</a>
+* <a href=https://wiki.jenkins-ci.org/display/JENKINS/Android+Emulator+Plugin>Jenkins</a>
 * <a href=http://www.vogella.com/articles/AndroidTesting/article.html>Vogella</a>
 
