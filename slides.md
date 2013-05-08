@@ -55,4 +55,5 @@ you know why :)
 * <a href=https://code.google.com/p/maven-android-plugin/>Android Maven plugin</a>
 * <a href=https://wiki.jenkins-ci.org/display/JENKINS/Android+Emulator+Plugin>Jenkins</a>
 * <a href=http://www.vogella.com/articles/AndroidTesting/article.html>Vogella</a>
+* <a href=https://github.com/yegdroid/AndroidTesting>My testing app</a>
 
