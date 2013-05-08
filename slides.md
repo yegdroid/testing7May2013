@@ -17,14 +17,14 @@ you know why :)
 ### Robotium (I'll talk about this tonight)
 ### Robolectric
 ### Espresso (coming soon from Google?)
-
+!SLIDE left
 #Robotium
 
 * Android automation framework. Heavily used. 
 * "With the support of Robotium, test case developers can write function, system and acceptance test scenarios, spanning multiple Android activities."
 * Open source and lots of community support
 * Extends JUnit style and conventions so there is almost no learning curve.
-
+!SLIDE left
 #What else can we do?
 * maven plugins for testing after compiling
 * maven plugin + jenkins for CI builds 
@@ -33,5 +33,8 @@ you know why :)
 
 # More
 
-### Vogella: http://www.vogella.com/articles/AndroidTesting/article.html
+* <a href=https://code.google.com/p/robotium/>Robotium</a>
+* <a href=http://pivotal.github.io/robolectric/>Roboelectric</a>
+* <a href=https://code.google.com/p/maven-android-plugin/>Android Maven plugin</a>
+* <a href=http://www.vogella.com/articles/AndroidTesting/article.html>Vogella</a>
 
